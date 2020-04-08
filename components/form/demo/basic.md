@@ -17,7 +17,7 @@ Basic Form data control. Includes layout, initial values, validation and submit.
 import { Form, Input, Button, Checkbox } from 'antd';
 
 const layout = {
-  labelCol: { span: 8 },
+  labelCol: { span: 18 },
   wrapperCol: { span: 16 },
 };
 const tailLayout = {
